@@ -40,6 +40,7 @@ sap.ui.controller("sap.ui.demo.view.Master", {
 	   router.navTo("DetailPage");
    },
    handlePress1 : function () {
+	   alert("Test");
 	   router = sap.ui.core.routing.Router.getRouter("appRouter");
 	   router.navTo("DetailPage");
 }
