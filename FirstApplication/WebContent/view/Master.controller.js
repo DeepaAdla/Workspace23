@@ -38,5 +38,9 @@ sap.ui.controller("sap.ui.demo.view.Master", {
    handlePress : function () {
 	   router = sap.ui.core.routing.Router.getRouter("appRouter");
 	   router.navTo("DetailPage");
-   }
+   },
+   handlePress1 : function () {
+	   router = sap.ui.core.routing.Router.getRouter("appRouter");
+	   router.navTo("DetailPage");
+}
 });

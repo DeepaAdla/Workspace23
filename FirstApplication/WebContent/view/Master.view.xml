@@ -7,7 +7,7 @@
 					   ariaDescribedBy="defaultButtonDescription genericButtonDescription">
 				</Button>
 			   <Button text="Test"
-					   press="handlePress"
+					   press="handlePress1"
 					   ariaDescribedBy="defaultButtonDescription genericButtonDescription">
 				</Button>
 		</content>
