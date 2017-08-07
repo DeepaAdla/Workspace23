@@ -6,6 +6,10 @@
 					   press="handlePress"
 					   ariaDescribedBy="defaultButtonDescription genericButtonDescription">
 				</Button>
+			   <Button text="Test"
+					   press="handlePress"
+					   ariaDescribedBy="defaultButtonDescription genericButtonDescription">
+				</Button>
 		</content>
 	</Page>
 </core:View>
