@@ -6,7 +6,7 @@ sap.ui.controller("sap.ui.demo.view.App", {
 * @memberOf view.App
 */
 	onInit: function() {
-		// Test 28-08-2017
+		// Test 28-08-2017 123
 		var initialView = sap.ui.xmlview("Initial","sap.ui.demo.view.Initial");
 		var rootControl = this.byId("rootControl");
 		rootControl.addDetailPage(initialView,true); 
