@@ -9,7 +9,7 @@ sap.ui.controller("sap.ui.demo.view.Master", {
 	onInit: function() {
            //Test
            alert("Hello");
-	   alert("test");
+	   alert("test1");
 	},
 
 /**
