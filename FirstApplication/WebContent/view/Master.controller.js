@@ -7,7 +7,7 @@ sap.ui.controller("sap.ui.demo.view.Master", {
 * @memberOf view.Master
 */
 	onInit: function() {
-           //Test
+           //Test 04Sept2017
            alert("Hello");
 	   alert("test1");
 	},
