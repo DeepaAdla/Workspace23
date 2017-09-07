@@ -7,10 +7,11 @@ sap.ui.controller("sap.ui.demo.view.Master", {
 * @memberOf view.Master
 */
 	onInit: function() {
-           //Test Version1 
-	   //Test Version1 
+           //Test 04Sept2017 
+  //Test 04Sept2017
            alert("Hello");
-	   alert("test");
+	   alert("test1");
+	   alert("tes2");
 	},
 
 /**
