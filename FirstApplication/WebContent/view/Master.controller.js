@@ -8,6 +8,7 @@ sap.ui.controller("sap.ui.demo.view.Master", {
 */
 	onInit: function() {
            //Test 04Sept2017 
+  //Test 04Sept2017
            alert("Hello");
 	   alert("test1");
 	   alert("tes2");
