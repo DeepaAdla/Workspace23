@@ -9,6 +9,7 @@ sap.ui.controller("sap.ui.demo.view.Detail", {
 	onInit: function() {
            alert("Test1");
 	    alert("Test2");
+	    alert("Test4");
 	},
 
 /**
