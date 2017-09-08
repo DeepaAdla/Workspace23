@@ -10,6 +10,7 @@ sap.ui.controller("sap.ui.demo.view.Detail", {
            alert("Test1");
 	    alert("Test2");
 	    alert("Test4");
+	    alert("Test6");
 	},
 
 /**
