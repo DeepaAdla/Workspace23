@@ -7,11 +7,13 @@ sap.ui.controller("sap.ui.demo.view.Detail", {
 * @memberOf view.Detail
 */
 	onInit: function() {
-           alert("Test1");
-	    alert("Test2");
-	    alert("Test4");
-	    alert("Test6");
-	},
+
+		//Test123
+        alert("Test1");
+	    alert("Test2");	    
+	    alert("Test23");
+	    alert("Test5");
+	    },
 
 /**
 * Similar to onAfterRendering, but this hook is invoked before the controller's View is re-rendered

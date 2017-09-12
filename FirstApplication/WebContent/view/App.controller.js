@@ -12,6 +12,7 @@ sap.ui.controller("sap.ui.demo.view.App", {
 		alert("Test1");
 		alert("Test2");
 		alert("Test478");
+		alert("Hello");
 
 		// Test 04Sept2017
 		alert("Test1");
