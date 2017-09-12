@@ -6,9 +6,15 @@ sap.ui.controller("sap.ui.demo.view.Detail", {
 * Can be used to modify the View before it is displayed, to bind event handlers and do other one-time initialization.
 * @memberOf view.Detail
 */
-//	onInit: function() {
-//
-//	},
+	onInit: function() {
+
+		//Test123
+		//Test1445-567
+        alert("Test1");
+	    alert("Test2");	    
+	    alert("Test23");
+	    alert("Test5");
+	    },
 
 /**
 * Similar to onAfterRendering, but this hook is invoked before the controller's View is re-rendered
